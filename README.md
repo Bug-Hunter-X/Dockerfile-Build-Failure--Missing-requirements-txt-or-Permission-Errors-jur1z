@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile build error and its solution. The initial Dockerfile attempts to install dependencies using pip3 and a requirements.txt file, but it fails because the requirements.txt file is missing.  The solution demonstrates a corrected Dockerfile that includes the requirements.txt file and appropriate error handling.
